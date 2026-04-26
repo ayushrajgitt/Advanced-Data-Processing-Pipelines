@@ -1,7 +1,7 @@
 # Advanced Data Processing Pipelines
 
 ## 📌 Overview
-This repository contains hands-on architectures, scripts, and distributed processing labs developed during an intensive 90-hour advanced Data Engineering training program conducted by ExcelR in collaboration with Kalinga Institute of Industrial Technology (KIIT University). 
+This repository contains hands-on architectures, scripts, and distributed processing labs that I built during a 90-hour advanced Data Engineering training program conducted by ExcelR in collaboration with KIIT University.
 
 Building upon prior experience with cloud data warehousing and API integrations, this repository focuses on the next step in the modern data stack: **large-scale distributed computing, real-time streaming, pipeline orchestration, and ACID-compliant data lakes.**
 
